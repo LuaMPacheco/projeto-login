@@ -60,6 +60,13 @@ form > .campo {
     margin: 12px 2px;
 }
 
+div.campo {
+    color: #2D3142;
+    font-size: 2em;
+    width: auto;
+}
+
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;
